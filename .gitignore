@@ -1,0 +1,39 @@
+# Executáveis e binários
+*.exe
+*.out
+*.bin
+*.o
+*.a
+*.so
+*.dll
+
+# Arquivos específicos do projeto (substitua pelo nome do seu executável)
+fibao
+a.out
+
+# Arquivos de objeto e dependências
+*.obj
+*.ilk
+*.pdb
+*.exp
+*.lib
+
+# Arquivos temporários e de IDE
+*.swp
+*~
+*.bak
+*.tmp
+
+# Pastas de build
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# Arquivos específicos do VS Code
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
